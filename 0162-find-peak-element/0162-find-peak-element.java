@@ -6,7 +6,7 @@ class Solution {
 
         int n=nums.length;
 
-        //corner cases
+        //corner cases - trimming edge cases for easy binary search space - better readability
         if(nums[0]>nums[1]) potentialAns=Math.max(potentialAns,0);
         if(nums[n-1]>nums[n-2]) potentialAns=Math.max(potentialAns,n-1);
 
