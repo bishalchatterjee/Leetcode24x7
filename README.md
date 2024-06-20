@@ -14,3 +14,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0008-string-to-integer-atoi) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1885-count-number-of-homogenous-substrings) |
+# Math
+|  |
+| ------- |
+| [1885-count-number-of-homogenous-substrings](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1885-count-number-of-homogenous-substrings) |
