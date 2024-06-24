@@ -34,3 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0337-house-robber-iii) |
+# Database
+|  |
+| ------- |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
