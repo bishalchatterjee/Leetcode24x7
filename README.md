@@ -39,3 +39,26 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0197-rising-temperature](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0197-rising-temperature) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0350-intersection-of-two-arrays-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0350-intersection-of-two-arrays-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0350-intersection-of-two-arrays-ii) |
+## Sorting
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0350-intersection-of-two-arrays-ii) |
+<!---LeetCode Topics End-->
