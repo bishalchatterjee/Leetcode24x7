@@ -61,4 +61,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0350-intersection-of-two-arrays-ii) |
+## Math
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/2645-pass-the-pillow) |
+## Simulation
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
