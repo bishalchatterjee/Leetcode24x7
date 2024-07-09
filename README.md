@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0076-minimum-window-substring) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
@@ -82,4 +83,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1951-find-the-winner-of-the-circular-game) |
+## String
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0076-minimum-window-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
