@@ -67,11 +67,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0043-multiply-strings) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0043-multiply-strings) |
 | [1803-average-waiting-time](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/2645-pass-the-pillow) |
@@ -86,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
 |  |
