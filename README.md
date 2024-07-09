@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0061-rotate-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
@@ -94,4 +95,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0076-minimum-window-substring) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
