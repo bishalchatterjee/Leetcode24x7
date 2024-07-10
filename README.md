@@ -102,5 +102,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
