@@ -104,5 +104,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0596-classes-more-than-5-students](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0596-classes-more-than-5-students) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1245-user-activity-for-the-past-30-days-i) |
+| [1877-find-followers-count](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1877-find-followers-count) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
