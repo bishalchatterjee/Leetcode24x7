@@ -44,12 +44,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0037-sudoku-solver) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1803-average-waiting-time](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0076-minimum-window-substring) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
@@ -109,4 +111,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1877-find-followers-count](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1877-find-followers-count) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
