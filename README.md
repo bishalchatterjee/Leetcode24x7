@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0854-making-a-large-island](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0854-making-a-large-island) |
 | [1493-frog-position-after-t-seconds](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1493-frog-position-after-t-seconds) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -154,8 +155,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1493-frog-position-after-t-seconds](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1493-frog-position-after-t-seconds) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Graph
 |  |
 | ------- |
 | [1493-frog-position-after-t-seconds](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1493-frog-position-after-t-seconds) |
+## Binary Tree
+|  |
+| ------- |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 <!---LeetCode Topics End-->
