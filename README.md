@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0043-multiply-strings) |
+| [0670-maximum-swap](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0670-maximum-swap) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/2645-pass-the-pillow) |
 ## Simulation
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0670-maximum-swap](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0678-valid-parenthesis-string) |
 ## Depth-First Search
 |  |
