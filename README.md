@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0037-sudoku-solver) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0854-making-a-large-island](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0854-making-a-large-island) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1803-average-waiting-time](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0037-sudoku-solver](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0037-sudoku-solver) |
 | [0854-making-a-large-island](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0854-making-a-large-island) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
