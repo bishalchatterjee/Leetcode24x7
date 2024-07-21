@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0037-sudoku-solver) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0854-making-a-large-island](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0854-making-a-large-island) |
+| [1396-count-servers-that-communicate](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1396-count-servers-that-communicate) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0037-sudoku-solver](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0037-sudoku-solver) |
 | [0854-making-a-large-island](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0854-making-a-large-island) |
+| [1396-count-servers-that-communicate](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1396-count-servers-that-communicate) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/2472-build-a-matrix-with-conditions) |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0854-making-a-large-island](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0854-making-a-large-island) |
+| [1396-count-servers-that-communicate](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1396-count-servers-that-communicate) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1493-frog-position-after-t-seconds](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1493-frog-position-after-t-seconds) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -156,11 +159,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0854-making-a-large-island](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0854-making-a-large-island) |
+| [1396-count-servers-that-communicate](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1396-count-servers-that-communicate) |
 | [1493-frog-position-after-t-seconds](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1493-frog-position-after-t-seconds) |
 ## Union Find
 |  |
 | ------- |
 | [0854-making-a-large-island](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0854-making-a-large-island) |
+| [1396-count-servers-that-communicate](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1396-count-servers-that-communicate) |
 ## Tree
 |  |
 | ------- |
@@ -181,4 +186,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2472-build-a-matrix-with-conditions](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/2472-build-a-matrix-with-conditions) |
+## Counting
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
