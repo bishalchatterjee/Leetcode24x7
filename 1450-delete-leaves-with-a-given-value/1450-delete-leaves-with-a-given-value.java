@@ -17,14 +17,14 @@ class Solution {
     public TreeNode removeLeafNodes(TreeNode root, int target) {
         if(root == null) return null;
         
-        return helper(root, target);
+        return helperPostOrder(root, target);
     }
 
-    private TreeNode helper(TreeNode root, int target){
+    private TreeNode helperPostOrder(TreeNode root, int target){
         if(root == null) return null;
 
-        root.left = helper(root.left, target);
-        root.right = helper(root.right, target);
+        root.left = helperPostOrder(root.left, target);
+        root.right = helperPostOrder(root.right, target);
 
         if(isLeaf(root) && root.val == target) return null;
 
