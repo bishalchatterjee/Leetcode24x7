@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1803-average-waiting-time](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2472-build-a-matrix-with-conditions](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/2472-build-a-matrix-with-conditions) |
 ## Hash Table
 |  |
 | ------- |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0854-making-a-large-island](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0854-making-a-large-island) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2472-build-a-matrix-with-conditions](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/2472-build-a-matrix-with-conditions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -167,8 +169,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1493-frog-position-after-t-seconds](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1493-frog-position-after-t-seconds) |
+| [2472-build-a-matrix-with-conditions](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/2472-build-a-matrix-with-conditions) |
 ## Binary Tree
 |  |
 | ------- |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+## Topological Sort
+|  |
+| ------- |
+| [2472-build-a-matrix-with-conditions](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/2472-build-a-matrix-with-conditions) |
 <!---LeetCode Topics End-->
