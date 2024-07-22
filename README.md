@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
@@ -201,4 +202,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0274-h-index](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
