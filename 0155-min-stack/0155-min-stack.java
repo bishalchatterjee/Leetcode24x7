@@ -3,10 +3,6 @@ class StackNode {
     int currMin;
     StackNode next;
 
-    StackNode(){
-
-    }
-
     StackNode(int val, int currMin, StackNode next){
         this.val = val;
         this.currMin = currMin;
