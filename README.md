@@ -54,12 +54,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1803-average-waiting-time](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2472-build-a-matrix-with-conditions](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/2472-build-a-matrix-with-conditions) |
+| [2502-sort-the-people](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0076-minimum-window-substring) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2502-sort-the-people](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2502-sort-the-people](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/2502-sort-the-people) |
 ## Math
 |  |
 | ------- |
@@ -102,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0076-minimum-window-substring) |
 | [0678-valid-parenthesis-string](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0678-valid-parenthesis-string) |
+| [2502-sort-the-people](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/2502-sort-the-people) |
 ## Sliding Window
 |  |
 | ------- |
