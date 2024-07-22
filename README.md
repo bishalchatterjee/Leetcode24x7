@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0037-sudoku-solver) |
+| [0274-h-index](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0854-making-a-large-island](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1396-count-servers-that-communicate) |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0274-h-index](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2502-sort-the-people](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/2502-sort-the-people) |
 ## Math
@@ -194,4 +196,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1396-count-servers-that-communicate) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
