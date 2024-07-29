@@ -39,6 +39,7 @@ class Solution {
 }
 
 /*
+TLE
 
 class Solution {
     public int numTeams(int[] rating) {
@@ -82,6 +83,9 @@ class Solution {
 */
 
 /*
+
+TLE
+
 class Solution {
     public int numTeams(int[] rating) {
         int[] res = new int[1];
