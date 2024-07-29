@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0948-sort-an-array) |
 | [1396-count-servers-that-communicate](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1396-count-servers-that-communicate) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1511-count-number-of-teams](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1511-count-number-of-teams) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0678-valid-parenthesis-string) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1511-count-number-of-teams](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1511-count-number-of-teams) |
 ## Stack
 |  |
 | ------- |
@@ -241,4 +243,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/2171-second-minimum-time-to-reach-destination) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
