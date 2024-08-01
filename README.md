@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2472-build-a-matrix-with-conditions](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0076-minimum-window-substring) |
 | [0678-valid-parenthesis-string](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0678-valid-parenthesis-string) |
 | [2502-sort-the-people](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/2727-number-of-senior-citizens) |
 ## Sliding Window
 |  |
 | ------- |
