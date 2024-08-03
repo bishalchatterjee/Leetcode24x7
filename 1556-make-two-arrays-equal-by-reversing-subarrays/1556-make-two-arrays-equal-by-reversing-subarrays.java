@@ -1,5 +1,25 @@
 class Solution {
     public boolean canBeEqual(int[] target, int[] arr) {
+        if(target.length != arr.length) return false;
+
+        int[] freqMapTarget = new int[1001];
+    
+        for (int i = 0; i < target.length; i++) {
+            freqMapTarget[target[i]]++;
+            freqMapTarget[arr[i]]--;
+        }
+
+        for(int x : freqMapTarget){
+            if(x > 0) return false;
+        }
+
+        return true;
+    }
+}
+
+/*
+class Solution {
+    public boolean canBeEqual(int[] target, int[] arr) {
         Map<Integer, Integer> freqMapTarget = new HashMap<>();
         Map<Integer, Integer> freqMapArr = new HashMap<>();
 
@@ -22,3 +42,5 @@ class Solution {
         return true;
     }
 }
+
+*/
