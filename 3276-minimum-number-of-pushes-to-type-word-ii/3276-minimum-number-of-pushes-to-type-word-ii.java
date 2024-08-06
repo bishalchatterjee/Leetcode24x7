@@ -16,7 +16,7 @@ class Solution {
         int totalPresses = 0;
         for (int i = 0; i < 26; i++) {
             if (sortedFreq[i] == 0) break;
-            System.out.println(i + " " + sortedFreq[i]);
+            // System.out.println(i + " " + sortedFreq[i]);
             totalPresses += (i / 8 + 1) * sortedFreq[i];
         }
         
