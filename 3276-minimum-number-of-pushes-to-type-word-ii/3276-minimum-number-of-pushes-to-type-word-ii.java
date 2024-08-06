@@ -9,7 +9,7 @@ class Solution {
         for (int i = 0; i < 26; i++) {
             sortedFreq[i] = letterFrequency[i];
         }
-        Arrays.sort(sortedFreq, Collections.reverseOrder());
+        Arrays.sort(sortedFreq, (x, y) -> y - x);
         
         int totalPresses = 0;
         for (int i = 0; i < 26; i++) {
