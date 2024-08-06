@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2472-build-a-matrix-with-conditions](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/2727-number-of-senior-citizens) |
+| [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 ## Hash Table
 |  |
 | ------- |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1493-frog-position-after-t-seconds](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1493-frog-position-after-t-seconds) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/2472-build-a-matrix-with-conditions) |
+| [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -238,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0948-sort-an-array) |
+| [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 ## Merge Sort
 |  |
 | ------- |
@@ -255,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 ## Binary Indexed Tree
 |  |
 | ------- |
