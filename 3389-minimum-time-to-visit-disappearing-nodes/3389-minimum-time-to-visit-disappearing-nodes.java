@@ -2,19 +2,20 @@ class Pair {
     int destinationNode;
     int edgeWeight;
 
-    Pair(int destinationNode, int edgeWeight){
+    Pair(int destinationNode, int edgeWeight) {
         this.destinationNode = destinationNode;
         this.edgeWeight = edgeWeight;
     }
 }
+
 class Solution {
     public int[] minimumTime(int n, int[][] edges, int[] disappear) {
         List<List<Pair>> adjList = buildGraph(edges, n);
-int[] ans = new int[n];
+        int[] ans = new int[n];
         Arrays.fill(ans, -1);
 
         PriorityQueue<int[]> pq = new PriorityQueue<>((x, y) -> x[0] - y[0]);
-        pq.offer(new int[]{0, 0});  // {time, node}
+        pq.offer(new int[] { 0, 0 }); // {time, node}
 
         while (!pq.isEmpty()) {
             int[] timeNode = pq.poll();
@@ -27,7 +28,7 @@ int[] ans = new int[n];
                     int v = neighbor.destinationNode;
                     int w = neighbor.edgeWeight;
                     if (time + w < disappear[v]) {
-                        pq.offer(new int[]{time + w, v});
+                        pq.offer(new int[] { time + w, v });
                     }
                 }
             }
@@ -36,16 +37,14 @@ int[] ans = new int[n];
         return ans;
     }
 
-    private List<List<Pair>> buildGraph(int[][] edges, int n){
+    private List<List<Pair>> buildGraph(int[][] edges, int n) {
         List<List<Pair>> adjList = new ArrayList<>();
-    
-    
-        for(int i = 0; i < n; i++){
+
+        for (int i = 0; i < n; i++) {
             adjList.add(new ArrayList<>());
         }
 
-
-        for(int[] edge : edges){
+        for (int[] edge : edges) {
             int start = edge[0];
             int end = edge[1];
             int weight = edge[2];
