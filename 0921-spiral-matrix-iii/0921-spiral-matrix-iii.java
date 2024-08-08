@@ -3,7 +3,7 @@ class Solution {
         int steps = 0;
         int currDirection = 0;
         
-        int[][] dir = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}}; // Directions: right, down, left, up
+        int[][] dir = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}}; // Spiral Direction: right, down, left, up
         int[][] res = new int[rows * cols][2];
         
         res[0] = new int[]{rStart, cStart};
