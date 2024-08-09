@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0274-h-index](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0854-making-a-large-island](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0854-making-a-large-island) |
+| [0870-magic-squares-in-grid](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1196-filling-bookcase-shelves) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0076-minimum-window-substring) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0870-magic-squares-in-grid](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0870-magic-squares-in-grid) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/2502-sort-the-people) |
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0043-multiply-strings) |
 | [0273-integer-to-english-words](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0273-integer-to-english-words) |
 | [0670-maximum-swap](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0670-maximum-swap) |
+| [0870-magic-squares-in-grid](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0870-magic-squares-in-grid) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/2645-pass-the-pillow) |
 ## Simulation
@@ -157,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0037-sudoku-solver](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0037-sudoku-solver) |
 | [0854-making-a-large-island](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0854-making-a-large-island) |
+| [0870-magic-squares-in-grid](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0921-spiral-matrix-iii) |
 | [1396-count-servers-that-communicate](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1396-count-servers-that-communicate) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1496-lucky-numbers-in-a-matrix) |
