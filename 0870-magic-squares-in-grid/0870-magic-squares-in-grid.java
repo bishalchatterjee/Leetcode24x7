@@ -33,6 +33,7 @@ class Solution {
                 if (value < 1 || value > 9 || seenNumbers[value]) {
                     return false;
                 }
+                
                 seenNumbers[value] = true;
 
                 // Calculate row and column sums
