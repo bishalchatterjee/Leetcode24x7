@@ -48,7 +48,7 @@ class Solution {
         int totalDots = dots * dots;
         DisjointSet ds = new DisjointSet(totalDots);
 
-        // Union the outer boundary dots with the top-left corner
+        // Union the outer boundary dots with the top-left corner cell that is 0
         for (int i = 0; i < dots; i++) {
             for (int j = 0; j < dots; j++) {
                 if (i == 0 || i == dots - 1 || j == 0 || j == dots - 1) {
@@ -79,6 +79,8 @@ class Solution {
                         regionCount++;
 
                     ds.unionBySize(cellNumber1, cellNumber2);
+                }else{
+                    continue;
                 }
             }
         }
