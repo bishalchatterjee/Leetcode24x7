@@ -43,8 +43,7 @@ class DisjointSet {
 
 class Solution {
     public int regionsBySlashes(String[] grid) {
-        int n = grid.length;
-        int dots = n + 1;
+        int dots = grid.length + 1;
         int totalDots = dots * dots;
         DisjointSet ds = new DisjointSet(totalDots);
 
@@ -60,23 +59,21 @@ class Solution {
 
         int regionCount = 1;
 
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < grid.length; i++) {
             char[] ch = grid[i].toCharArray();
             for (int j = 0; j < ch.length; j++) {
                 if (ch[j] == '/') {
                     int cellNumber1 = i * dots + (j + 1);
                     int cellNumber2 = (i + 1) * dots + j;
 
-                    if (ds.findUltimateParent(cellNumber1) == ds.findUltimateParent(cellNumber2))
-                        regionCount++;
+                    if (ds.findUltimateParent(cellNumber1) == ds.findUltimateParent(cellNumber2)) regionCount++;
 
                     ds.unionBySize(cellNumber1, cellNumber2);
                 } else if (ch[j] == '\\') {
                     int cellNumber1 = i * dots + j;
                     int cellNumber2 = (i + 1) * dots + (j + 1);
 
-                    if (ds.findUltimateParent(cellNumber1) == ds.findUltimateParent(cellNumber2))
-                        regionCount++;
+                    if (ds.findUltimateParent(cellNumber1) == ds.findUltimateParent(cellNumber2)) regionCount++;
 
                     ds.unionBySize(cellNumber1, cellNumber2);
                 }else{
