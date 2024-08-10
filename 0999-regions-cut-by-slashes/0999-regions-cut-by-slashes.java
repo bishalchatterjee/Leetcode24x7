@@ -30,7 +30,11 @@ class DisjointSet {
         if (size[ultimateParentOfU] < size[ultimateParentOfV]) { // attach smaller to the bigger component
             parent[ultimateParentOfU] = ultimateParentOfV;
             size[ultimateParentOfV] += size[ultimateParentOfU];
-        } else {
+        } else if (size[ultimateParentOfV] < size[ultimateParentOfU]) {
+            parent[ultimateParentOfV] = ultimateParentOfU;
+            size[ultimateParentOfU] += size[ultimateParentOfV];
+        } else { // if both are of the same size, attach to either of them and increase the size
+                 // of the chosen one
             parent[ultimateParentOfV] = ultimateParentOfU;
             size[ultimateParentOfU] += size[ultimateParentOfV];
         }
