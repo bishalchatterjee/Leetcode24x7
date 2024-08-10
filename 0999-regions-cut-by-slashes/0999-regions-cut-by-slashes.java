@@ -52,7 +52,7 @@ class Solution {
             for (int j = 0; j < dots; j++) {
                 if (i == 0 || i == dots - 1 || j == 0 || j == dots - 1) {
                     int cellNumber = i * dots + j;
-                    ds.unionBySize(0, cellNumber);
+                    if(cellNumber != 0) ds.unionBySize(0, cellNumber);
                 }
             }
         }
