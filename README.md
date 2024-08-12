@@ -218,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1493-frog-position-after-t-seconds](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1493-frog-position-after-t-seconds) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Topological Sort
@@ -252,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0155-min-stack) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -259,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0948-sort-an-array) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 ## Merge Sort
@@ -287,4 +291,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
