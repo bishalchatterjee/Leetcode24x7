@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0228-summary-ranges](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0854-making-a-large-island](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0921-spiral-matrix-iii) |
@@ -86,16 +87,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0061-rotate-list](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0061-rotate-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Binary Search
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Sorting
 |  |
 | ------- |
 | [0274-h-index](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1741-sort-array-by-increasing-frequency) |
