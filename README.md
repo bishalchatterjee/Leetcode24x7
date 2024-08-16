@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0228-summary-ranges](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0624-maximum-distance-in-arrays](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0854-making-a-large-island](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0870-magic-squares-in-grid) |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0890-lemonade-change) |
