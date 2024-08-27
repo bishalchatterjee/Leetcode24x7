@@ -1,51 +1,64 @@
+class Pair {
+    int node;
+    double successProb;
+
+    Pair(int node, double successProb) {
+        this.node = node;
+        this.successProb = successProb;
+    }
+}
+
 class Solution {
-    class State {
-	int node;
-	double prob;
-	State(int _node, double _prob) {
-		node = _node;
-		prob = _prob;
-	}
-}
+    public double maxProbability(int n, int[][] edges, double[] succProb, int start_node, int end_node) {
+        List<List<Pair>> adjList = buildGraph(n, edges, succProb);
+        return helperDijkstra(adjList, n, start_node, end_node);
+    }
 
-public double maxProbability(int n, int[][] edges, double[] succProb, int start, int end) {
+    private double helperDijkstra(List<List<Pair>> adjList, int n, int start_node, int end_node) {
+        double[] probs = new double[n];  
+        PriorityQueue<Pair> pq = new PriorityQueue<>((x, y) -> Double.compare(y.successProb, x.successProb));  
+        pq.offer(new Pair(start_node, 1.0));
+        probs[start_node] = 1.0;
 
-	// build graph -> double[0]: node, double[1]: parent-to-node prob
-	Map<Integer, List<double[]>> map = new HashMap<>();
-	for (int i = 0; i < edges.length; ++i) {
-		int[] edge = edges[i];
+        while (!pq.isEmpty()) {
+            Pair current = pq.poll();
+            int parent = current.node;
+            double prob = current.successProb;
 
-		map.putIfAbsent(edge[0], new ArrayList<>());
-		map.putIfAbsent(edge[1], new ArrayList<>());
+            if (parent == end_node) {
+                return prob;
+            }
 
-		map.get(edge[0]).add(new double[] {edge[1], succProb[i]});
-		map.get(edge[1]).add(new double[] {edge[0], succProb[i]});
-	}
+            for (Pair neighbor : adjList.get(parent)) {
+                int child = neighbor.node;
+                double edgeProb = neighbor.successProb;
 
-	double[] probs = new double[n];  // best prob so far for each node
-	PriorityQueue<State> pq = new PriorityQueue<>((a, b) -> (((Double) b.prob).compareTo((Double) a.prob)));
-	pq.add(new State(start, 1.0));
+                if (probs[child] < prob * edgeProb) {
+                    probs[child] = prob * edgeProb;
+                    pq.offer(new Pair(child, probs[child]));
+                }
+            }
+        }
 
-	while (!pq.isEmpty()) {
+        return 0.0; 
+    }
 
-		State state = pq.poll();
-		int parent = state.node;
-		double prob = state.prob;
+    private List<List<Pair>> buildGraph(int n, int[][] edges, double[] succProb) {
+        List<List<Pair>> adjList = new ArrayList<>();
 
-		if (parent == end) return prob;
+        for (int i = 0; i < n; i++) {
+            adjList.add(new ArrayList<>());
+        }
 
-		for (double[] child : map.getOrDefault(parent, new ArrayList<>())) {
-			// add to pq only if: it can make a better prob
-			if (probs[(int) child[0]] >= prob * child[1]) continue;
+        for (int i = 0; i < edges.length; i++) {
+            int start = edges[i][0];
+            int end = edges[i][1];
+            double probability = succProb[i];
 
-			pq.add(new State((int) child[0], prob * child[1]));
-			probs[(int) child[0]] = prob * child[1];
-		}
+            adjList.get(start).add(new Pair(end, probability));
+            adjList.get(end).add(new Pair(start, probability));
+        }
 
-	}
-
-	return 0;
-}
-        
-    
+        return adjList;
+    }
 }
