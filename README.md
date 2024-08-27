@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0999-regions-cut-by-slashes) |
 | [1196-filling-bookcase-shelves](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1196-filling-bookcase-shelves) |
+| [1325-path-with-maximum-probability](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1325-path-with-maximum-probability) |
 | [1396-count-servers-that-communicate](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1396-count-servers-that-communicate) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1511-count-number-of-teams) |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [1325-path-with-maximum-probability](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1493-frog-position-after-t-seconds](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1493-frog-position-after-t-seconds) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -277,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/0948-sort-an-array) |
+| [1325-path-with-maximum-probability](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1325-path-with-maximum-probability) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 ## Merge Sort
 |  |
@@ -293,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Shortest Path
 |  |
 | ------- |
+| [1325-path-with-maximum-probability](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/bishalchatterjee/Leetcode24x7/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
